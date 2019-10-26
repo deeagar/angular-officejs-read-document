@@ -4,5 +4,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `npm run start` for a dev server. Navigate to `https://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `npm install` to download required node modules. 
+
+Run `npm run start` to start dev server on `https://localhost:4200/`.
+
+## Load the add-in
+Sample manifest.xml attached to side-load add-in in word.
 
