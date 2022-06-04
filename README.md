@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Reads the entire .docx document with the Office.js library and gets the complete document in base64 encoded string. You can then either send the complete document to server for further processing. Here, I've just read the bytes and opened a new word document with it just to prove the concept.
 
-Motivation for this - https://deeconstantlearner.blogspot.com/2019/10/reading-complete-document-using-officejs.html
+Motivation for this - https://virtualdeepak.com/2019/10/reading-complete-document-using-officejs.html
 
 ## Development server
 
